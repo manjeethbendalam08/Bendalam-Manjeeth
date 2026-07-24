@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bendalam Manjeeth</h1>
 
 <h3 align="center">
-AI & ML Student | Backend Developer | Generative AI Enthusiast
+AI & ML Student | Backend Development Enthusiast | Generative AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Generative AI.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Student;Backend+Development+Enthusiast;Generative+AI+Enthusiast;Java+%7C+Python+%7C+C;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjeethbendalam08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Generative AI Enthusiast.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjeethbendalam08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm **Bendalam Manjeeth**, a **3rd Year B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)** undergraduate with a strong interest in **Backend Development** and **Generative AI**. I enjoy building practical applications, solving real-world problems through code, and continuously improving my technical skills.
 
@@ -30,74 +36,116 @@ I'm **Bendalam Manjeeth**, a **3rd Year B.Tech Computer Science & Engineering (A
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c" />
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Spring Boot & REST APIs
-- Generative AI
-- Machine Learning
-- DBMS
-- Operating Systems
+- 📌 Data Structures & Algorithms
+- ⚙️ Spring Boot & REST APIs
+- 🤖 Generative AI
+- 🧠 Machine Learning
+- 🗄️ Database Management Systems (DBMS)
+- 💻 Operating Systems
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjeethbendalam08&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeethbendalam08&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjeethbendalam08&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeethbendalam08&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeethbendalam08&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeethbendalam08&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/manjeethbendalam08/manjeethbendalam08/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manjeethbendalam08&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 **Email:** manjeethbendalam@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/manjeeth-bendalam-30ab03348
-- 💻 **GitHub:** https://github.com/manjeethbendalam08
-
----
+# 📈 Contribution Graph
 
 <p align="center">
-⭐ Always Learning • Always Building • Turning Ideas into Code 🚀
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjeethbendalam08&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manjeethbendalam08/manjeethbendalam08/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:manjeethbendalam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/manjeeth-bendalam-30ab03348">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/manjeethbendalam08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Turning Ideas into Code
+
+*"Success is built one commit at a time."* 🚀
+
+</div>
